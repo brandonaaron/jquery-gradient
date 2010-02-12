@@ -2,6 +2,8 @@
 
 Adds a dynamically created configurable gradient to the background of an element without the use of images.
 
+**This plugin is in desperate need of an overhaul. It should use more modern techniques when it can. Currently it just creates a ton of divs and that can be a drag.**
+
 
 ## License
 
